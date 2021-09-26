@@ -1,5 +1,4 @@
 header {
-    font-family: Helvetica;
     font-size: 40px;
     font-weight: bold;
     color: khaki;
@@ -8,10 +7,18 @@ header {
 }
 
 .heading {
-    font-family: Helvetica;
     font-size: 30px;
     font-weight: bold;
     color: white;
     background-color: mediumspringgreen;
     padding: 3px 0 3px 2px;
+}
+
+.blue {
+    font-weight: bold;
+    color:blue;
+}
+
+body {
+    font-family: Helvetica;
 }
